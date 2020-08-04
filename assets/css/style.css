@@ -1,0 +1,57 @@
+
+.container{
+    display:flex;
+    max-width: 100%;
+    justify-content: center;
+   
+}
+.container_form{
+    display:flex;
+    justify-content: center;
+    margin-top: 30px;
+    height:250px;
+    width: 400px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(169, 184, 184);
+}
+.login_header{
+    display:flex;
+    justify-content: center;
+    background-color: cornflowerblue;
+}
+.login_header_title{
+    height:50px;
+    max-width: 100%;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;  
+}
+.input{
+    width: 300px;
+    border-radius:10px;
+}
+.form{
+    display:flex;
+    background-color: rgb(226, 215, 215);
+    justify-content: center;
+    
+}
+.form_body{
+    width:600px;
+    height:400px;
+    margin-top:40px;
+    
+}
+.cadastro_header{
+    display:flex;
+    justify-content: center;
+    background-color: cornflowerblue;
+}
+.cadastro_header_title{
+    height:50px;
+    max-width: 100%;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;  
+}
